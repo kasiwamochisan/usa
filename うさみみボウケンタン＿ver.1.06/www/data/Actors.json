@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$unasaka2","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"うなさかえー2","traits":[{"code":43,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":99,"name":"うなさか","nickname":"好感度/V[7]","note":"","profile":"うさみみ付けた精霊。\nどの辺が精霊なのかはナゾ。何故うさぎなんだ・・・？"},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"主人公1","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[{"code":43,"dataId":34,"value":1}],"initialLevel":1,"maxLevel":99,"name":"主人公","nickname":"ふつうのひと","note":"","profile":"日々を享受していたふつうの人類。\n実は結構エロめです。"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$iroha2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"イロハ","traits":[],"initialLevel":1,"maxLevel":99,"name":"イロハ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"グラブラ","traits":[{"code":43,"dataId":41,"value":1},{"code":43,"dataId":42,"value":1},{"code":43,"dataId":43,"value":1},{"code":43,"dataId":44,"value":1}],"initialLevel":1,"maxLevel":99,"name":"グラブラ","nickname":"","note":"","profile":""}
+]
